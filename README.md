@@ -9,9 +9,18 @@ REST API for task management built with FastAPI and SQLite.
 - Automatic documentation via Swagger UI  
 
 ## 📂 Project Structure
+```
+app/
+ ├── main.py
+ ├── routers/
+ ├── models/
+ └── schemas/
+```
+
 
 ## ▶️ Run the Server
-```bash
-uvicorn app.main:app --reload
+
+To start the API locally, run:
+
 
 
