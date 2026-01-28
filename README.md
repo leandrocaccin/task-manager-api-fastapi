@@ -19,6 +19,7 @@ app/
 
 
 ## ▶️ Run the Server
+
 To start the API locally, run:
 
 ```
