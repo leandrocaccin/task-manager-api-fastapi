@@ -9,3 +9,9 @@ REST API for task management built with FastAPI and SQLite.
 - Automatic documentation via Swagger UI  
 
 ## 📂 Project Structure
+
+## ▶️ Run the Server
+```bash
+uvicorn app.main:app --reload
+
+
