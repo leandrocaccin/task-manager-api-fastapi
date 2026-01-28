@@ -21,6 +21,7 @@ app/
 ## ▶️ Run the Server
 
 To start the API locally, run:
+
 uvicorn app.main:app --reload
 
 
